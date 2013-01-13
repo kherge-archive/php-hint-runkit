@@ -771,7 +771,7 @@ function runkit_method_add($classname, $methodname, $args, $code, $flags = RUNKI
  *
  * @return boolean Returns TRUE on success or FALSE on failure.
  */
-function runkit_method_copy($dClass, $dMethod, $sClass, $sMethod)
+function runkit_method_copy($dClass, $dMethod, $sClass, $sMethod = null)
 {
 }
 
