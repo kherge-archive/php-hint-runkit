@@ -566,7 +566,7 @@ function runkit_class_adopt($classname, $parentname)
  * Convert an inherited class to a base class, removes any method whose scope is
  * ancestral
  *
- * @param $classname Name of class to emancipate
+ * @param string $classname Name of class to emancipate
  *
  * @return boolean Returns TRUE on success or FALSE on failure.
  */
