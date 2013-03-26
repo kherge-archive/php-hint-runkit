@@ -6,7 +6,7 @@ A code hint file for the runkit extension.
 Summary
 -------
 
-It's simple really. <strike>We kill the Batman.</strike> Add it to your list of development Composer dependencies and install it. When your favorite IDE builds its code hint index, you will begin seeing code hints for the runkit API (if you have it configured properly).
+It's simple really. <s>We kill the Batman.</s> Add it to your list of development Composer dependencies and install it. When your favorite IDE builds its code hint index, you will begin seeing code hints for the runkit API (if you have it configured properly).
 
 Installation
 ------------
