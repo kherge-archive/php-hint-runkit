@@ -1,0 +1,25 @@
+{
+    "name": "herrera-io/runkit-hint",
+    "description": "A code hint file for the runkit extension.",
+    "keywords": ["runkit", "hint"],
+    "homepage": "http://herrera-io.github.com/php-hint-runkit",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kevin Herrera",
+            "email": "kevin@herrera.io",
+            "homepage": "http://kevin.herrera.io"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/herrera-io/php-hint-runkit/issues"
+    },
+    "suggest": {
+        "ext-runkit": "For using the runkit API."
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
